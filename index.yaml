@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  raw:
+  - apiVersion: v2
+    created: "2026-09-01T15:37:14.709520341Z"
+    description: Renders arbitrary raw Kubernetes manifests from values
+    digest: 5ff5392aed5cb1d806137457b773b96a201a19a246c3a695882354c49c0f6179
+    name: raw
+    type: application
+    urls:
+    - https://github.com/soanni/helm-charts/releases/download/raw-0.1.1/raw-0.1.1.tgz
+    version: 0.1.1
+generated: "2026-09-01T15:37:14.709524884Z"
